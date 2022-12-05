@@ -1,0 +1,42 @@
+
+.listnav {
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    background-color: #444;
+    padding: 0.3rem 2rem;
+    font-size: 1.25rem;
+    align-items: center;
+}
+
+.list{
+    display: flex;
+    list-style: none;
+    align-items: center;
+}
+
+.item {
+    margin-right: 1rem;
+}
+
+.link {
+   color: #fff; 
+   text-decoration: none;
+}
+
+.marca {
+    color: white;
+    list-style: none;
+}
+
+.input {
+    padding: 3px;
+    width: auto;
+}
+
+.carinho{
+    width: 40px;
+    height: 40px;
+    justify-content: center;
+    cursor: pointer;
+}

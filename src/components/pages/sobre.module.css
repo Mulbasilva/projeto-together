@@ -1,0 +1,13 @@
+.profile_photo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.phrase{
+    text-align: justify;
+    padding-left: 20px;
+    
+}.title{
+    padding-left: 20px;
+}

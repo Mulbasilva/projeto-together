@@ -1,0 +1,46 @@
+
+.footer{
+    display: flex;
+    justify-content: space-between;
+    background-color: #444;
+    color: #fff;
+    padding: 0.1rem 2rem;
+    text-align: center;
+    align-items: center;
+    
+}
+
+.parceiros{
+    font-size:18px;
+}
+
+.social_list{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    list-style: none;
+}
+
+.item_list {
+    margin-right: 2rem;
+}
+
+.image {
+    font-size: 1.5rem;
+    cursor: pointer;
+    color: rgb(20, 137, 14);
+}
+
+.copy_right{
+    font-size: 18px;
+    justify-content: center;
+}
+.span {
+    
+    letter-spacing: 3px;
+}
+
+.companhe{
+    margin-right: 3.6rem;
+    font-size: 1.2rem;
+}
