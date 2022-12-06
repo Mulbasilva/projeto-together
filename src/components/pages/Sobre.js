@@ -14,7 +14,8 @@ function Sobre(){
             
             <div>
                 <h3 className={styles.title}>Sobre nós</h3>
-                <p className={styles.phrase}>A KellyShopp vem oferecendo os melhores serviços para seu pet, sempre buscando novidades em estética animal, acessórios e medicina veterinária. Você e seus melhores amigos contam com nossa loja online e todas possuem assistência virtual completa. Diversos itens para o seu pet, disponíveis em todas as unidades. Um shopping completo para estética, saúde e lazer do seu melhor amigo.</p>
+                    <p className={styles.phrase}>A KellyShopp vem oferecendo os melhores serviços para seu pet, sempre buscando novidades em estética animal, acessórios e medicina veterinária. Você e seus melhores amigos contam com nossa loja online e todas possuem assistência virtual completa. Diversos itens para o seu pet, disponíveis em todas as unidades. Um shopping completo para estética, saúde e lazer do seu melhor amigo.
+                    </p>
             </div>
             
         </section>

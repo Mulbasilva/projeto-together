@@ -16,32 +16,40 @@ import imagebrin2 from "../imagens/brin2.jpg"
 
 function Produtos(){
     return(
-        <section>
-       
-            <h3 className={styles.title}>Confira nossos produtos</h3>
-       <div className={styles.prod}>
-            <img src={imagep} alt="" width={1300} height={300}/>
-           
-        </div>
+        <section >
 
-        <div>
-            <img src={imagepro1} alt="" width={400} height={400}/>
-            <img src={imagepro2} alt="" width={400} height={400}/>
-            <img src={imagepro} alt="" width={400} height={400}/>
-
-            <img src={imagepeixe} alt="" width={500} height={500}/>
-            <img src={imagetarr} alt="" width={400} height={400}/>
-            <img src={imageroi} alt="" width={400} height={400}/>
-
-            <img src={image2} alt="" width={500} height={500}/>
-            <img src={image3} alt="" width={400} height={400}/>
-            <img src={image4} alt="" width={400} height={400}/>
-
-            <img src={imagelo9} alt="" width={500} height={500}/>
-            <img src={imagelo10} alt="" width={400} height={400}/>
-            <img src={imagebrin2} alt="" width={400} height={400}/>
+            <div> 
+                    <h3 className={styles.title}>Confira nossos produtos</h3>
+            </div>
             
-        </div>
+            <div className={styles.prod}>
+
+                <div>
+                    <img src={imagep} alt="" width={1300} height={300}/>
+                    
+                </div>
+
+                <div>
+                    <img src={imagepro1} alt="" width={400} height={400}/>
+                    <img src={imagepro2} alt="" width={400} height={400}/>
+                    <img src={imagepro} alt="" width={400} height={400}/>
+                </div>
+                <div>
+                    <img src={imagepeixe} alt="" width={400} height={400}/>
+                    <img src={imagetarr} alt="" width={400} height={400}/>
+                    <img src={imageroi} alt="" width={400} height={400}/>
+                </div>
+                <div>
+                    <img src={image2} alt="" width={400} height={400}/>
+                    <img src={image3} alt="" width={400} height={400}/>
+                    <img src={image4} alt="" width={400} height={400}/>
+                </div>
+                <div>
+                    <img src={imagelo9} alt="" width={400} height={400}/>
+                    <img src={imagelo10} alt="" width={400} height={400}/>
+                    <img src={imagebrin2} alt="" width={400} height={400}/>
+                </div>
+            </div>
 
         </section>
        

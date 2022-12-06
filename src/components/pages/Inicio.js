@@ -1,11 +1,6 @@
 import React from "react"
 import styles from "./inicio.module.css"
 import imagens from "../imagens/sobre1.jpg"
-// import imagens from "../imagens/sobre1.jpg"
-// import imagens from "../imagens/sobre1.jpg"
-// import imagens from "../imagens/sobre1.jpg"
-// import imagens from "../imagens/sobre1.jpg"
-// import imagens from "../imagens/sobre1.jpg"
 
 
 function Inicio(){
@@ -27,10 +22,8 @@ function Inicio(){
             </div>
 
             <div>
-            <img src={imagens} alt="" width={1300} height={1000}/>
+                <img src={imagens} alt="" width={1300} height={1000}/>
             </div>
-            
-
             
         </section>
 

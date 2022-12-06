@@ -1,7 +1,9 @@
+
 .prod{
     text-align: center;
 }
 
 .title{
     font-size: 25px;
+    padding: 0.625rem 0; 
 }

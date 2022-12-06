@@ -6,9 +6,9 @@ function Footer(){
     return(
         <footer className={styles.footer}>
            
-            <div className={styles.parceiros}>
-                <h3>Parceiros</h3>
-                <p>TOTI</p>
+            <div className={styles.parceiro}>
+                <h3>Parceiro:</h3>
+                <p>Toti</p>
             </div>
 
             <div className={styles.parceiros}>

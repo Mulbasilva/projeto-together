@@ -12,9 +12,7 @@ function NavBar(){
           </div>
 
           <div>
-          <form action="">
             <input className={styles.input} type="text"  placeholder="Pesquisar"/>
-          </form>
           </div>
 
           <ul className={styles.list}>
